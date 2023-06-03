@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[Checkout my website](dusanmarsa.cz)
+[Checkout my website](https://dusanmarsa.cz)
