@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[Checkout my website](https://dusanmarsa.cz)
+[Personal site](https://dusanmarsa.cz)
 
 #### Experiments
-- Testing out basic [AI Harness](https://github.com/dusanmarsa/ai-harness) engine with agent loop, few tools and semantic vector memory that indexes codebase and is able to semanticly retrieve relevant files
+
+- **[validvision](https://github.com/dusanmarsa/validvision)** — multi-persona AI panel that pressure-tests startup ideas. Built with Mastra workflows, web search via Exa, real-time streaming transcript in Next.js.
+- **[ai-harness](https://github.com/dusanmarsa/ai-harness)** — minimal agent-loop harness with tools and semantic vector memory that indexes a codebase and retrieves relevant files on demand.
